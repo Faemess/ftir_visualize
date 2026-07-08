@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## اجرای برنامه
 
-پس از نصب ماژول ها:
+دستور زیر را در cmd اجرا کنید:
 
 ```bash
 python ftir_viewer.py
